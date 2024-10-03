@@ -3,6 +3,8 @@ COVID-19 Data Exploration
 
 Skills used: Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
+Data Source: https://outworldindata.org/covid-deaths
+
 */
 
 -- covid_deaths table:
